@@ -29,15 +29,15 @@ Delivery address management
 Technologies Used
 The following technologies and frameworks have been used in the development of this project:
 
-MongoDB: A NoSQL database used for storing product, user, and order data.
+1)MongoDB: A NoSQL database used for storing product, user, and order data.
 
-Express.js: A web application framework for creating server-side APIs.
+2)Express.js: A web application framework for creating server-side APIs.
 
-React.js: A JavaScript library for building user interfaces.
+3)React.js: A JavaScript library for building user interfaces.
 
-Node.js: A JavaScript runtime environment for server-side development.
+4)Node.js: A JavaScript runtime environment for server-side development.
 
-Stripe API: A secure payment processing API for handling credit card transactions.
+5)Stripe API: A secure payment processing API for handling credit card transactions.
 
 Installation
 To install and run the project locally, follow these steps:
