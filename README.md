@@ -2,6 +2,8 @@
 https://chic-maamoul-28df3a.netlify.app/
 The link to backend of this app:
 https://github.com/TezzMore/AmazonSetuBackend
+
+
 AmazonSetu:
 This is a clone of the popular e-commerce shopping app Amazon. It has been developed using the MERN (MongoDB, Express.js, React.js, Node.js) stack and incorporates essential features such as adding items to the cart, payment processing with credit card details, and doorstep delivery. The Stripe API has been utilized for handling payment transactions securely.
 
