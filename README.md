@@ -7,6 +7,8 @@ https://github.com/TezzMore/AmazonSetuBackend
 AmazonSetu:
 This is a clone of the popular e-commerce shopping app Amazon. It has been developed using the MERN (MongoDB, Express.js, React.js, Node.js) stack and incorporates essential features such as adding items to the cart, payment processing with credit card details, and doorstep delivery. The Stripe API has been utilized for handling payment transactions securely.
 
+
+
 Table of Contents:
 Features,
 Technologies Used,
@@ -16,7 +18,13 @@ Usage,
 Contributing,
 License.
 
+
+
+
+
 Features
+
+
 User authentication and authorization
 Product catalog with search functionality
 Product details page
@@ -24,6 +32,10 @@ Shopping cart management
 Secure payment processing with credit card details via Stripe API
 Order history tracking
 Delivery address management
+
+
+
+
 
 
 Technologies Used
@@ -38,6 +50,11 @@ The following technologies and frameworks have been used in the development of t
 4)Node.js: A JavaScript runtime environment for server-side development.
 
 5)Stripe API: A secure payment processing API for handling credit card transactions.
+
+
+
+
+
 
 Installation
 To install and run the project locally, follow these steps:
@@ -67,6 +84,11 @@ MongoDB: Set up a MongoDB database and configure the connection string in the se
 
 Stripe API: Sign up for a Stripe account and obtain the necessary API keys. Set these keys in the server/.env file.
 
+
+
+
+
+
 Usage
 To start the project, follow these steps:
 In the server directory, start the server:
@@ -81,7 +103,13 @@ Copy code
 npm start
 Access the application by opening your browser and navigating to http://localhost:3000.
 
+
+
+
+
+
 Contributing
+
 Contributions to this project are welcome. To contribute, please follow these steps:
 Fork the repository.
 Create a new branch for your feature or bug fix:
