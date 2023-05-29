@@ -60,6 +60,7 @@ Configuration
 Before running the project, you need to configure the following:
 
 MongoDB: Set up a MongoDB database and configure the connection string in the server/.env file.
+
 Stripe API: Sign up for a Stripe account and obtain the necessary API keys. Set these keys in the server/.env file.
 
 Usage
